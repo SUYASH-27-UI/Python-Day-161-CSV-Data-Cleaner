@@ -1,0 +1,9 @@
+ID,Name,Email,Age,Marks
+101,Rahul,rahul@gmail.com,21,85
+102,Amit,amit@gmail.com,22,76
+103,Priya,priya@gmail.com,20,92
+104,John,john@gmail.com,15,65
+105,Sneha,sneha@gmail.com,23,105
+102,Karan,karan@gmail.com,22,80
+106,Rohan,invalid-email,21,70
+107,Neha,neha@gmail.com,24,88
